@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (signatory)
+
+Name: res/layout/activity_icon_pack.xml
+SHA1-Digest: ssj7vg/2DEiD6DUQ6rbzIsV1js8=
+
+Name: res/drawable-nodpi-v4/ip2_back.png
+SHA1-Digest: xCmLPfJZQJqY/pKyvah0dTfJ3dc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: g1gxYBcDXS4S8UWZbH6JvdexbWE=
+
+Name: res/drawable-nodpi-v4/ip2_upon.png
+SHA1-Digest: OlvUN6XG860VLo4EODUkNlIgZMQ=
+
+Name: res/xml/appfilter.xml
+SHA1-Digest: ZFHyy4lfvcC3qvUePzXjMmqV6yc=
+
+Name: res/drawable-nodpi-v4/ip2_mask.png
+SHA1-Digest: IMlECSwfv0o1pWthjZIB59l5m4o=
+
+Name: resources.arsc
+SHA1-Digest: QfXy7xx0R6bL4mXdIFZyJQDrLRI=
+
+Name: classes.dex
+SHA1-Digest: 4NCbmeZEkeuA+QPWK48NPnrzs7s=
+
+Name: res/drawable-xxhdpi-v4/iconpackii.png
+SHA1-Digest: 5dMUdAy3z3cJ4MaIra0bnDoYaJU=
+

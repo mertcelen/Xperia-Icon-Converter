@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.sonymobile.xperiatesticonpackii" platformBuildVersionCode="23" platformBuildVersionName="6.0-1">
+    <application android:allowBackup="true" android:fullBackupContent="false" android:icon="@drawable/iconpackii" android:label="Framed " android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.sonymobile.xperiatesticonpackii.IconPackActivity">
+            <intent-filter>
+                <action android:name="com.sonymobile.home.ICON_PACK"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

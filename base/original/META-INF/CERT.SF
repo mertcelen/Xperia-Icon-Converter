@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: GFgT5xEOklo0ZVOKa8oq04pKpLw=
+
+Name: res/layout/activity_icon_pack.xml
+SHA1-Digest: Y5FP5cgDK0v4HtS2JPBWQUe42+o=
+
+Name: res/drawable-nodpi-v4/ip2_back.png
+SHA1-Digest: tsTneYlOYJA3ft+mPFSDbOvNn8A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: t7/vUG1tP0e/K4ANO0+XcTbEo78=
+
+Name: res/drawable-nodpi-v4/ip2_upon.png
+SHA1-Digest: RKikDzae0/JP8DJurkz0peCnUZ4=
+
+Name: res/drawable-nodpi-v4/ip2_mask.png
+SHA1-Digest: p2moRayPbEWIMZY4KtxCghdAJKA=
+
+Name: res/xml/appfilter.xml
+SHA1-Digest: f2D3EeRotRkZQfLPJc5T7O8CBEA=
+
+Name: resources.arsc
+SHA1-Digest: DgUmDatS1pfvOVqvYGhys875Zrs=
+
+Name: classes.dex
+SHA1-Digest: MtajElzGVczrqMjuB4v6iBLNaQs=
+
+Name: res/drawable-xxhdpi-v4/iconpackii.png
+SHA1-Digest: cP8IIAex9qISy9ByMgtiZZ0GurI=
+
